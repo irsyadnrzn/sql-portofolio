@@ -8,4 +8,4 @@ Besides that, all project on this Repo are done using datalab, an online IDE tha
 ## Project
 This Repository consists of several projects varrying from beginner to advanced and are devided by folder for each project. In each projects folder, there are a readme file, a notebook and images used in the notebook file. Further explanations about each project are explained on each project's readme file. You can click the projects listed bellow to jump into each project. 
 
-1. [Analysing Unicorm Company] (https://github.com/irsyadnrzn/sql-portofolio/blob/5c445e944eebe8bf5b8b0fa71d0fc5490e48cc4a/Analyzing%20Unicorn%20Company/projectoverview.md)
+1. Analysing Unicorm Company [click here](https://github.com/irsyadnrzn/sql-portofolio/blob/5c445e944eebe8bf5b8b0fa71d0fc5490e48cc4a/Analyzing%20Unicorn%20Company/projectoverview.md)
